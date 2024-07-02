@@ -2,7 +2,6 @@
 <h3 align="center">A passionate MERN Stack Developer from 🇧🇩</h3>
 <div align="center">
     <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" alt="Coder GIF" width="500">
-<!--     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> -->
 </div>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=khaledssbd&label=Profile%20views&color=0e75b6&style=flat" alt="khaledssbd" /> </div>
 
@@ -18,13 +17,9 @@
   [https://khaled-siddique.vercel.app](https://khaled-siddique.vercel.app)
 
 <br>
-
-# 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khaledssbd&theme=github-dark-blue&hide_border=false" width=70% alt="GitHub Streak Stats" />
-
 <br>
 
-# 📈 Statistics
+# Statistics 📈
 ![Stats](https://github-readme-stats.vercel.app/api?username=khaledssbd&theme=dark&show_icons=true)
 
 
