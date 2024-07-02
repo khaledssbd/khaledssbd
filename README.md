@@ -22,12 +22,7 @@
 # Statistics 📈
 ![Stats](https://github-readme-stats.vercel.app/api?username=khaledssbd&theme=dark&show_icons=true)
 
-
-
 ![Summary Cards Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledssbd&theme=2077)
-
-
-![Summary Cards Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khaledssbd&theme=2077)
 
 ![Summary Cards Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khaledssbd&theme=2077)
 
