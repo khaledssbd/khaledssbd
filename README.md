@@ -17,12 +17,30 @@
 <br>
 
 # Statistics 📈
-![Stats](https://github-readme-stats.vercel.app/api?username=khaledssbd&theme=dark&show_icons=true)
+<div align="center">
 
-![Summary Cards Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledssbd&theme=2077)
+   ![Stats](https://github-readme-stats.vercel.app/api?username=khaledssbd&theme=dark&show_icons=true)
 
-![Summary Cards Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khaledssbd&theme=2077)
+<br><br>
 
+   ![Summary Cards Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledssbd&theme=2077)
+
+<br><br>
+
+   ![Summary Cards Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khaledssbd&theme=2077)
+
+</div>
+
+
+
+
+<br><br>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rockyhaque&" alt="rockyhaque"/></p>
+
+<br><br>
+
+<p align="center"> <a href="https://github.com/rockyhaque/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rockyhaque&row=1&column=6&theme=onedark" alt="rockyhaque" /></a> </p>
 
 <br>
 
@@ -80,7 +98,7 @@
 <br>
   
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2> 
- <p align="left">
+ <p align="center">
   <a href="https://www.linkedin.com/in/mdkhaledsshuvo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdkhaledsshuvo" height="40" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -103,8 +121,7 @@
 
 
 
-<br>
-<br>
+<br> <br>
 
 
 
