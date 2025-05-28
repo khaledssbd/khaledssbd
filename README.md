@@ -87,8 +87,10 @@
 </p>
 
 <p align="center">
-   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
                      alt="tailwind" width="60" height="60" /> </a>&nbsp;&nbsp;
+   <a href="https://ant.design" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg"
+                     alt="antdesign" width="60" height="60" /> </a>&nbsp;&nbsp;
    <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
                      alt="figma" width="60" height="60" /> </a>&nbsp;&nbsp;
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
