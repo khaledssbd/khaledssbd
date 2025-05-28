@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Khaled Siddique</h1>
-<h3 align="center">A passionate MERN Stack Developer from 🇧🇩</h3>
+<h3 align="center">A passionate FULL Stack Web Developer from 🇧🇩</h3>
 <div align="center">
     <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" alt="Coder GIF" width="500">
 </div>
