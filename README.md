@@ -36,7 +36,7 @@
 
 <br><br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=khaledssbd&theme=onedark" alt="khaledssbd"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=khaledssbd&theme=2077" alt="khaledssbd"/></p>
 
 <br><br>
 
