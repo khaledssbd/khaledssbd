@@ -23,7 +23,7 @@
 
 <br><br>
 
-   ![Summary Cards Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledssbd&theme=2077)
+   ![Summary Cards Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledssbd&theme=onedark)
 
 <br><br>
 
