@@ -27,7 +27,7 @@
 
 <br><br>
 
-   ![Summary Cards Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khaledssbd&theme=2077)
+   ![Summary Cards Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khaledssbd&theme=onedark)
 
 </div>
 
