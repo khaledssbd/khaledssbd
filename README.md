@@ -108,10 +108,10 @@
 ## 🌟 Featured Projects
 <div align="center">
   <a href="https://think-greenly-one.vercel.app">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khaledssbd&repo=SwiftCart&theme=radical" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khaledssbd&repo=ThinkGreenly&theme=radical" />
   </a>
   <a href="https://swift-cart-mocha.vercel.app">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khaledssbd&repo=ThinkGreenly&theme=radical" />
+     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khaledssbd&repo=SwiftCart&theme=radical" />
   </a>
 </div>
 
