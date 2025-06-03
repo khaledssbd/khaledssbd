@@ -23,11 +23,11 @@
 
 <br><br>
 
-   ![Summary Cards Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledssbd&theme=2077)
+   ![Summary Cards Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledssbd&theme=dark)
 
 <br><br>
 
-   ![Summary Cards Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khaledssbd&theme=onedark)
+   ![Summary Cards Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khaledssbd&theme=2077)
 
 </div>
 
