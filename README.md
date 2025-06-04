@@ -111,7 +111,7 @@
 
 <br>
 
-## 🌟 Featured Projects
+## Featured Projects 🌟
 
 <div align="center">
  <a href="https://swift-cart-mocha.vercel.app">
