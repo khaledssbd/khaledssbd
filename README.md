@@ -1,38 +1,42 @@
  <h1 align="center">Hi 👋, I'm Khaled Siddique</h1>
 <h3 align="center">A passionate FULL Stack Web Developer from 🇧🇩</h3>
-<div align="center">
+<!-- <div align="center">
     <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" alt="Coder GIF" width="500">
-</div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=khaledssbd&label=Profile%20views&color=0e75b6&style=flat" alt="khaledssbd" /> </div>
+</div> -->
+![Khaled Siddique](khaled-siddique.png)
+
+<div align="center"> <img src="https://komarev.com/ghpvc?username=khaledssbd&label=Profile%20views&color=0e75b6&style=flat" alt="khaledssbd" /> </div>
 
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 
 ### 🔭 I’m currently working on Nextjs with differnt Back-end
+
 ### 🌱 I’m currently learning React-Native.
+
 ### 💬 Ask me anything about Nextjs, React, Redux, PostgreSQL, Prisma, Mongoose, JavaScript, TypeScript etc.
+
 ### 📫 Reach me at: khaledssbd@gmail.com
-### 😄 My website:  [https://khaled-siddique.vercel.app](https://khaled-siddique.vercel.app)
+
+### 😄 My website: [https://khaled-siddique.vercel.app](https://khaled-siddique.vercel.app)
 
 <br>
 <br>
 
 # Statistics 📈
+
 <div align="center">
 
-   ![Stats](https://github-readme-stats.vercel.app/api?username=khaledssbd&theme=dark&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=khaledssbd&theme=dark&show_icons=true)
 
 <br><br>
 
-   ![Summary Cards Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledssbd&theme=2077)
+![Summary Cards Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledssbd&theme=2077)
 
 <br><br>
 
-   ![Summary Cards Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khaledssbd&theme=2077)
+![Summary Cards Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khaledssbd&theme=2077)
 
 </div>
-
-
-
 
 <br><br>
 
@@ -66,7 +70,6 @@
  <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
                      alt="prisma" width="60" height="60"/> </a>     
 </p>
-
 
 <p align="center">
    <a href="https://mongoosejs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" 
@@ -106,6 +109,7 @@
 <br>
 
 ## 🌟 Featured Projects
+
 <div align="center">
  <a href="https://swift-cart-mocha.vercel.app">
      <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khaledssbd&repo=SwiftCart&theme=radical&cacheBust=1" />
@@ -139,10 +143,6 @@
   </a>
 </p>
 
-
-
 <br> <br>
-
-
 
 ⭐️ From [khaledssbd](https://khaled-siddique.vercel.app)
