@@ -3,6 +3,7 @@
 <!-- <div align="center">
     <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" alt="Coder GIF" width="500">
 </div> -->
+
 ![Khaled Siddique](khaled-siddique.png)
 
 <div align="center"> <img src="https://komarev.com/ghpvc?username=khaledssbd&label=Profile%20views&color=0e75b6&style=flat" alt="khaledssbd" /> </div>
