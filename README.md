@@ -4,7 +4,7 @@
     <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" alt="Coder GIF" width="500">
 </div> -->
 
-![khaledssbd](khaled-siddique.png)
+<!-- ![khaledssbd](khaled-siddique.png) -->
 
 <div align="center"> <img src="khaled-siddique.png" alt="khaledssbd" width="50%" /> </div>
 
