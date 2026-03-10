@@ -52,7 +52,7 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledssbd&theme=algolia&hide_border=false" alt="Profile Details" width="90%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledssbd&theme=algolia&hide_border=false" alt="Profile Details" width="90%" style="border: 1px solid #e1e4e8; border-radius: 8px;">
 </div>
 
 <br><br>
