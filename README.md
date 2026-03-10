@@ -38,9 +38,30 @@
 
 <br>
 
-## 📈 GitHub Metrics
+## 📈 GitHub Analytics: A Deeper Dive
+
+<br><br>
 
 <div align="center">
+  <a href="https://github.com/khaledssbd">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khaledssbd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khaledssbd&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+  </a>
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledssbd&theme=algolia&hide_border=true" alt="Profile Details" width="90%">
+</div>
+
+<br><br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaledssbd&theme=algolia&hide_border=true" alt="khaledssbd" width="80%"/>
+</p>
+
+<!-- <div align="center">
 
   <br>
 
@@ -48,11 +69,11 @@
 <br><br>
 ![Summary Cards Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khaledssbd&theme=2077)
 
-</div>
+</div> -->
 
-<br><br>
+<!-- <br><br> -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=khaledssbd&theme=onedark" alt="khaledssbd"/></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=khaledssbd&theme=onedark" alt="khaledssbd"/></p> -->
 
 <br><br>
 
@@ -165,11 +186,13 @@ sustainability-focused web application promoting eco-friendly habits.
 <br>
 
 <div align="center">
-  <p> ⚡ <i>"Stay hungry, stay foolish."</i> </p>
-  <p> <b>Thanks for visiting!</b> 🚀 </p>
-  <p> ⭐️ From <a href="https://khaled-siddique.vercel.app"> <b>khaledssbd</b> </a> </p>
+  <p><i>"The only way to do great work is to love what you do." - Steve Jobs</i></p>
+  <p>Thanks for stopping by! Have a great day! 😊</p>
+  <p> ❤️ From <a href="https://khaled-siddique.vercel.app"> <b>Khaled Siddique</b> </a> </p>
 </div>
 
-<br> <br>
+<br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:2a9d8f&height=100&section=footer" width="100%"/>
 
 <!-- ⭐️ From [khaledssbd](https://khaled-siddique.vercel.app) -->
