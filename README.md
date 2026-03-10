@@ -52,8 +52,8 @@
 <br><br>
 
 <div align="center">
-  <div style="display: inline-block; border: 1px solid #e1e4e8; border-radius: 8px; padding: 8px; width: 90%;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledssbd&theme=algolia&hide_border=false" alt="Profile Details" width="100%">
+  <div style="display: inline-block; border: 2px solid #e1e4e8; border-radius: 12px; padding: 6px; width: 90%;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledssbd&theme=algolia&hide_border=false" alt="Profile Details" width="100%" style="border-radius: 8px;">
   </div>
 </div>
 
