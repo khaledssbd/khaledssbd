@@ -52,9 +52,9 @@
 <br><br>
 
 <div align="center">
-  <table width="90%">
+  <table width="90%" cellspacing="0" cellpadding="6">
     <tr>
-      <td>
+      <td bgcolor="#e1e4e8">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledssbd&theme=algolia&hide_border=false" alt="Profile Details" width="100%">
       </td>
     </tr>
