@@ -44,21 +44,21 @@
 
 <div align="center">
   <a href="https://github.com/khaledssbd">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khaledssbd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khaledssbd&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khaledssbd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=false"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khaledssbd&layout=compact&langs_count=8&theme=algolia&hide_border=false"/>
   </a>
 </div>
 
 <br><br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledssbd&theme=algolia&hide_border=true" alt="Profile Details" width="90%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledssbd&theme=algolia&hide_border=false" alt="Profile Details" width="90%">
 </div>
 
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaledssbd&theme=algolia&hide_border=true" alt="khaledssbd" width="80%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaledssbd&theme=algolia&hide_border=false" alt="khaledssbd" width="80%"/>
 </p>
 
 <!-- <div align="center">
