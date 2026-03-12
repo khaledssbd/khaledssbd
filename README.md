@@ -167,10 +167,19 @@
 
 ## Featured Projects 🌟
 
-- 🛒 **[SwiftCart](https://github.com/khaledssbd/SwiftCart)** - A modern
+<div align="center">
+ <a href="https://swift-cart-mocha.vercel.app">
+     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khaledssbd&repo=SwiftCart&theme=radical&cacheBust=1" />
+  </a>
+  <a href="https://think-greenly-one.vercel.app">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=khaledssbd&repo=ThinkGreenly&theme=radical&cacheBust=1" />
+  </a>
+</div>
+
+<!-- - 🛒 **[SwiftCart](https://github.com/khaledssbd/SwiftCart)** - A modern
   E-commerce platform built with Next.js, Redux, and NestJS.
 - 🌿 **[ThinkGreenly](https://github.com/khaledssbd/ThinkGreenly)** - A
-sustainability-focused web application promoting eco-friendly habits.
+sustainability-focused web application promoting eco-friendly habits. -->
 <!-- - 📱 **[NativeHealth](https://github.com/khaledssbd)** - A React Native mobile
   app for health tracking (In Progress). -->
 
