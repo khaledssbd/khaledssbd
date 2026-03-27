@@ -1,9 +1,35 @@
-<h1 align="center">Hi 👋, I'm Khaled Siddique</h1>
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Khaled%20Siddique&fontSize=70&animation=fadeIn" width="100%" />
+</div>
+
+<!-- Typing SVG -->
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%26+ExpressJS+Expert;Next.js+%26+NestJS+Expert;Docker+%26+AWS+Enthusiast;React+Native+Learner" alt="Typing SVG" />
   </a>
 </h3>
+
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+I'm+Khaled+Siddique;Frontend+Developer;MERN+Stack+Developer;Clean+UI+%26+Scalable+Architecture;Always+Learning+New+Things">
+</p> -->
+
+---
+
+<!-- # 👋 Hi, I'm **Khaled Siddique** -->
+
+<div align="center">
+
+### 🔥 A developer focused on building clean UIs, optimizing performance, and designing scalable, future-ready architecture.
+
+</div>
+
+<!-- <h1 align="center">Hi 👋, I'm Khaled Siddique</h1>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%26+ExpressJS+Expert;Next.js+%26+NestJS+Expert;Docker+%26+AWS+Enthusiast;React+Native+Learner" alt="Typing SVG" />
+  </a>
+</h3> -->
 <!-- <div align="center">
     <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif" alt="Coder GIF" width="500">
 </div> -->
