@@ -43,13 +43,17 @@
 
 ## 🛠 Skills & Tools
 
-| **Category** | **Tech Stack**                                      |
-| :----------- | :-------------------------------------------------- |
-| **Frontend** | `React` `Next.js` `Redux` `TailwindCSS` `AntDesign` |
-| **Backend**  | `Node.js` `Express` `NestJS` `Firebase`             |
-| **Database** | `PostgreSQL` `Prisma` `MongoDB` `Mongoose` `MySQL`  |
-| **DevOps**   | `Docker` `AWS` `Git` `GitHub`                       |
-| **Design**   | `Figma`                                             |
+| **Category**              | **Tech Stack**                                                                 |
+| ------------------------- | ------------------------------------------------------------------------------ |
+| **Frontend**              | `HTML5` `CSS3` `JavaScript` `TypeScript` `React.js` `Next.js` `Tailwind CSS`   |
+| **State Management**      | `Redux`                                                                        |
+| **Backend**               | `Node.js` `Express.js` `NestJS` `Firebase`                                     |
+| **Database**              | `PostgreSQL` `MySQL` `MongoDB`                                                 |
+| **ORM / ODM**             | `Prisma` `Mongoose`                                                            |
+| **Cloud & DevOps**        | `AWS` `Docker`                                                                 |
+| **Version Control**       | `Git` `GitHub`                                                                 |
+| **API Testing**           | `Postman`                                                                      |
+| **Design & Prototyping**  | `Figma`                                                                        |
 
 <br>
 
