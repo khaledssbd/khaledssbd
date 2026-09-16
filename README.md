@@ -43,17 +43,18 @@
 
 ## 🛠 Skills & Tools
 
-| **Category**              | **Tech Stack**                                                                 |
-| ------------------------- | ------------------------------------------------------------------------------ |
-| **Frontend**              | `HTML5` `CSS3` `JavaScript` `TypeScript` `React.js` `Next.js` `Tailwind CSS`   |
-| **State Management**      | `Redux`                                                                        |
-| **Backend**               | `Node.js` `Express.js` `NestJS` `Firebase`                                     |
-| **Database**              | `PostgreSQL` `MySQL` `MongoDB`                                                 |
-| **ORM / ODM**             | `Prisma` `Mongoose`                                                            |
-| **Cloud & DevOps**        | `AWS` `Docker`                                                                 |
-| **Version Control**       | `Git` `GitHub`                                                                 |
-| **API Testing**           | `Postman`                                                                      |
-| **Design & Prototyping**  | `Figma`                                                                        |
+| **Category**             | **Tech Stack**                                                                                        |
+| ------------------------ | ----------------------------------------------------------------------------------------------------- |
+| **Frontend**             | `HTML5` `CSS3` `JavaScript` `TypeScript` `React.js` `Next.js` `Remix` `TanStack Start` `React Native` |
+| **UI & Styling**         | `Tailwind CSS` `Shadcn UI` `Ant Design` `Framer Motion`                                               |
+| **State Management**     | `Redux Toolkit` `Zustand`                                                                             |
+| **Backend**              | `Node.js` `Express.js` `NestJS` `GraphQL` `Firebase`                                                  |
+| **Database**             | `PostgreSQL` `MongoDB` `Redis`                                                                        |
+| **ORM / ODM**            | `Prisma` `Mongoose`                                                                                   |
+| **Cloud & DevOps**       | `AWS` `Docker` `Vercel`                                                                               |
+| **Version Control**      | `Git` `GitHub`                                                                                        |
+| **API Testing**          | `Postman`                                                                                             |
+| **Design & Prototyping** | `Figma`                                                                                               |
 
 <br>
 
@@ -116,47 +117,118 @@
 
 <br>
 <h2>
-  Languages and Tools
+  🛠️ Languages, Frameworks & Tech Stack
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40" height="40" alt="tools">
 </h2>
-            
-<!-- ## ⚒️ Languages and Tools -->
 
-<table align="center">
-  <tr>
-    <td align="center" width="80"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"></a></td>
-    <td align="center" width="80"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"></a></td>
-    <td align="center" width="80"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"></a></td>
-    <td align="center" width="80"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"></a></td>
-    <td align="center" width="80"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"></a></td>
-    <td align="center" width="80"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white"><img src="https://cdn.simpleicons.org/nextdotjs/black" alt="nextjs" width="50" height="50"></picture></a></td>
-    <td align="center" width="80"><a href="https://tanstack.com/start" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tanstack/FF4154" alt="tanstack" width="50" height="50"></a></td>
-    <td align="center" width="80"><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"></a></td>
-  </tr>
-  <tr>
-    <td align="center" width="80"><a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"></a></td>
-    <td align="center" width="80"><a href="https://ant.design" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" alt="antdesign" width="50" height="50"></a></td>
-    <td align="center" width="80"><a href="https://ui.shadcn.com" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/white"><img src="https://cdn.simpleicons.org/shadcnui/black" alt="shadcnui" width="50" height="50"></picture></a></td>
-    <td align="center" width="80"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="nodejs" width="50" height="50"></a></td>
-    <td align="center" width="80"><a href="https://expressjs.com" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/white"><img src="https://cdn.simpleicons.org/express/black" alt="express" width="50" height="50"></picture></a></td>
-    <td align="center" width="80"><a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="50" height="50"></a></td>
-    <td align="center" width="80"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"></a></td>
-    <td align="center" width="80"><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"></a></td>
-  </tr>
-  <tr>
-    <td align="center" width="80"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"></a></td>
-    <td align="center" width="80"><a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"></a></td>
-    <td align="center" width="80"><a href="https://mongoosejs.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" alt="mongoose" width="50" height="50"></a></td>
-    <td align="center" width="80"><a href="https://www.prisma.io" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/white"><img src="https://cdn.simpleicons.org/prisma/black" alt="prisma" width="50" height="50"></picture></a></td>
-    <td align="center" width="80"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"></a></td>
-    <td align="center" width="80"><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="50" height="50"></a></td>
-    <td align="center" width="80"><a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"></a></td>
-    <td align="center" width="80"><a href="https://github.com" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"><img src="https://cdn.simpleicons.org/github/black" alt="github" width="50" height="50"></picture></a></td>
-  </tr>
-  <tr>
-    <td align="center" width="80"><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"></a></td>
-    <td align="center" width="80"><a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"></a></td>
-  </tr>
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="22%"><b>Category</b></th>
+      <th align="left" width="78%"><b>Technologies & Frameworks</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>Frontend & Core</b></td>
+      <td>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" title="TypeScript"/></a>&nbsp;&nbsp;
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" title="JavaScript"/></a>&nbsp;&nbsp;
+        <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="42" height="42" title="React 19"/></a>&nbsp;&nbsp;
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white">
+            <img src="https://cdn.simpleicons.org/nextdotjs/black" alt="nextjs" width="42" height="42" title="Next.js 16.3"/>
+          </picture>
+        </a>&nbsp;&nbsp;
+        <a href="https://remix.run/" target="_blank" rel="noreferrer">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/remix/white">
+            <img src="https://cdn.simpleicons.org/remix/black" alt="remix" width="42" height="42" title="Remix"/>
+          </picture>
+        </a>&nbsp;&nbsp;
+        <a href="https://tanstack.com/start" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tanstack/FF4154" alt="tanstack" width="50" height="50" title="TanStack Start"/></a>&nbsp;&nbsp;
+        <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" title="Redux Toolkit"/></a>&nbsp;&nbsp;
+        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="reactnative" width="42" height="42" title="React Native"/></a>&nbsp;&nbsp;
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="42" height="42" title="HTML5"/></a>&nbsp;&nbsp;
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="42" height="42" title="CSS3"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>UI & Styling</b></td>
+      <td>
+        <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" title="Tailwind CSS v4"/></a>&nbsp;&nbsp;
+        <a href="https://ui.shadcn.com" target="_blank" rel="noreferrer">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/white">
+            <img src="https://cdn.simpleicons.org/shadcnui/black" alt="shadcnui" width="42" height="42" title="Shadcn UI"/>
+          </picture>
+        </a>&nbsp;&nbsp;
+        <a href="https://polaris.shopify.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="polaris" width="42" height="42" title="Shopify Polaris UI & App Bridge"/></a>&nbsp;&nbsp;
+        <a href="https://ant.design" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" alt="antdesign" width="42" height="42" title="Ant Design"/></a>&nbsp;&nbsp;
+        <a href="https://framer.com/motion" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/framer/0055FF" alt="framer" width="42" height="42" title="Framer Motion"/></a>&nbsp;&nbsp;
+        <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" title="Figma UI/UX"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Backend & APIs</b></td>
+      <td>
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="42" height="42" title="Node.js"/></a>&nbsp;&nbsp;
+        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khaledssbd/khaledssbd/main/assets/express-white.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="42" height="42" title="Express.js"/>
+          </picture>
+        </a>&nbsp;&nbsp;
+        <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="42" height="42" title="NestJS"/></a>&nbsp;&nbsp;
+        <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/graphql/E10098" alt="graphql" width="42" height="42" title="GraphQL & APIs"/></a>&nbsp;&nbsp;
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" title="Firebase"/></a>&nbsp;&nbsp;
+        <a href="https://socket.io/" target="_blank" rel="noreferrer">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/socketdotio/white">
+            <img src="https://cdn.simpleicons.org/socketdotio/black" alt="socketio" width="42" height="42" title="Socket.io WebSockets"/>
+          </picture>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Databases & ORM</b></td>
+      <td>
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="42" height="42" title="PostgreSQL"/></a>&nbsp;&nbsp;
+        <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/white">
+            <img src="https://cdn.simpleicons.org/prisma/black" alt="prisma" width="42" height="42" title="Prisma ORM"/>
+          </picture>
+        </a>&nbsp;&nbsp;
+        <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="42" height="42" title="MongoDB"/></a>&nbsp;&nbsp;
+        <a href="https://mongoosejs.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" alt="mongoose" width="42" height="42" title="Mongoose ODM"/></a>&nbsp;&nbsp;
+        <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" title="MySQL"/></a>&nbsp;&nbsp;
+        <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/redis/DC382D" alt="redis" width="42" height="42" title="Redis Cache"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>DevOps, Cloud & Tools</b></td>
+      <td>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="42" height="42" title="Docker Containerization"/></a>&nbsp;&nbsp;
+        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="42" height="42" title="AWS"/></a>&nbsp;&nbsp;
+        <a href="https://vercel.com" target="_blank" rel="noreferrer">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/white">
+            <img src="https://cdn.simpleicons.org/vercel/black" alt="vercel" width="42" height="42" title="Vercel Cloud"/>
+          </picture>
+        </a>&nbsp;&nbsp;
+        <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" title="Git"/></a>&nbsp;&nbsp;
+        <a href="https://github.com" target="_blank" rel="noreferrer">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+            <img src="https://cdn.simpleicons.org/github/black" alt="github" width="42" height="42" title="GitHub"/>
+          </picture>
+        </a>&nbsp;&nbsp;
+        <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" title="Postman"/></a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <br>
