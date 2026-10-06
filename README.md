@@ -261,7 +261,7 @@ sustainability-focused web application promoting eco-friendly habits. -->
     <a href="https://twitter.com/mdkhaledsshuvo" target="_blank"> 🐦 <b>Twitter</b> </a> &nbsp; | &nbsp;
     <a href="https://fb.com/mdkhaledsshuvo" target="_blank"> 👥 <b>Facebook</b> </a> &nbsp; | &nbsp;
     <a href="https://www.instagram.com/mdkhaledsshuvo" target="_blank"> 📸 <b>Instagram</b> </a> &nbsp; | &nbsp;
-    <a href="https://medium.com/@mdkhaledsshuvo" target="_blank"> 📝 <b>Medium</b> </a> &nbsp; | &nbsp;
+    <!-- <a href="https://medium.com/@mdkhaledsshuvo" target="_blank"> 📝 <b>Medium</b> </a> &nbsp; | &nbsp; -->
     <a href="mailto:khaledssbd@gmail.com"> 📧 <b>Gmail</b> </a>
   </p>
 </div>
